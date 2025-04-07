@@ -1,9 +1,15 @@
 # Inferring indoor air quality from incomplete data and Gaussian Process modelling
-## Data
 
+## Arviz stats 
 
-## Pachages 
+## models 
+## Performance of models
 
-## Variables
+## data
+
+## Preprocessing 
+
+## Plots
+## Seasonality functions
 
 ### References
