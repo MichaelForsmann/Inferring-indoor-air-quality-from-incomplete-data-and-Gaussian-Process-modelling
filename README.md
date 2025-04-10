@@ -13,7 +13,7 @@ First
 ## Arviz stats 
 ## Seasonality functions
 ## Plots
-![plot]([http://url/to/img.png](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/PM25_BC_seasonality.png))
+![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/PM25_BC_seasonality.png)
 ## models 
 ## Performance of models
 
