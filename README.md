@@ -13,6 +13,7 @@ First
 ## Arviz stats 
 ## Seasonality functions
 ## Plots
+![alt text](http://url/to/img.png)
 ## models 
 ## Performance of models
 
