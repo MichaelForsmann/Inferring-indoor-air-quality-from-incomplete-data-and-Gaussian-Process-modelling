@@ -11,7 +11,7 @@ The data is mostly there to showcase the application and that the code is workin
 ## Preprocessing 
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/pipeline.png)
 ## Plots and performence to estimate general function for seasonality of the gases and particles
-![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/PM25_BC_seasonality.png)
+![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/pm_seasonality.png)
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/no2_nox_seasonality.png)
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/VOCs_seasonality(3).png)
 ## Models folder 
