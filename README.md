@@ -14,6 +14,8 @@ First
 ## Seasonality functions
 ## Plots
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/PM25_BC_seasonality.png)
+![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/no2_nox_seasonality.png)
+![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/VOCs_seasonality(1).png)
 ## models 
 ## Performance of models
 
