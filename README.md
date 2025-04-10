@@ -9,7 +9,7 @@ The outdoor sources are the total area of the outdoor source as an approximation
 The synthetic data was created since it is clinical data, which doesn't allow us to open-source it. 
 The data is mostly there to showcase the application and that the code is working.
 ## Preprocessing 
-First 
+![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/Untitled Diagram.drawio(4).png)
 
 ## Seasonality functions
 ## Plots and performence to estimate general function for seasonality of the gases and particles
