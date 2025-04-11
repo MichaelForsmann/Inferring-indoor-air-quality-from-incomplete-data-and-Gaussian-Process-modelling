@@ -20,7 +20,7 @@ All the gaussion porcess models used are saved in this folder
 
 ##Performance of models
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/sources_particles.png)
-![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/sources_particles_pm_bc.png)
+![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/sources_particles_bc_pm.png)
 ## Arviz stats plots about stability and converge from the models
 
 
