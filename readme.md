@@ -8,8 +8,9 @@ There are multiple indoor and outdoor sources and sinks. The indoor is the numbe
 The outdoor sources are the total area of the outdoor source as an approximation for the total exposure rate.
 The synthetic data was created since it is clinical data, which doesn't allow us to open-source it. 
 The data is mostly there to showcase the application and that the code is working.
-## Preprocessing 
+## Pipeline 
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/pipeline.png)
+## Preprocessing
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/flow_bc_pm.png)
 ## Plots and performence to estimate general function for seasonality of the gases and particles
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/pm_seasonality.png)
