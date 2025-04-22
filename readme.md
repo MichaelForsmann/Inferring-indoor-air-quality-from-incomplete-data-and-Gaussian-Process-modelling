@@ -99,3 +99,4 @@ url = {http://papers.neurips.cc/paper/9015-pytorch-an-imperative-style-high-perf
   title = {ArviZ a unified library for exploratory analysis of Bayesian models in Python},
   journal = {Journal of Open Source Software}
 }
+The license text is available in the [LICENSE](LICENSE) file located in the root directory of the project.
