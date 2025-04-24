@@ -26,8 +26,8 @@ All the gaussion porcess models used are saved in this folder
 
 
 ### References 
--item [Pyro bingham2019pyro:](https://arxiv.org/abs/1810.09538) 
--item [Scipy 2020SciPy-NMeth:](https://www.nature.com/articles/s41592-019-0686-2)
--item [PyTorch: An Imperative Style, High-Performance Deep Learning Library]( https://openreview.net/forum?id=BJJsrmfCZ)
--item [arviz_2019:](https://joss.theoj.org/papers/10.21105/joss.01143)
--item [Kennard-stone](https://www.researchgate.net/publication/357491012_Kennard-Stone_method_outperforms_the_Random_Sampling_in_the_selection_of_calibration_samples_in_SNPs_and_NIR_data)
+-Item [Pyro bingham2019pyro:](https://arxiv.org/abs/1810.09538) 
+-Item [Scipy 2020SciPy-NMeth:](https://www.nature.com/articles/s41592-019-0686-2)
+-Item [PyTorch: An Imperative Style, High-Performance Deep Learning Library]( https://openreview.net/forum?id=BJJsrmfCZ)
+-Item [arviz_2019:](https://joss.theoj.org/papers/10.21105/joss.01143)
+-Item [Kennard-stone](https://www.researchgate.net/publication/357491012_Kennard-Stone_method_outperforms_the_Random_Sampling_in_the_selection_of_calibration_samples_in_SNPs_and_NIR_data)
