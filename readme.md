@@ -3,7 +3,7 @@
 This project/paper was made to correct and simulate indoor air pollution in cohorts.
 Some particles and gasses have a strong seasonal component due to temperature and habits of the homes, such as $NO_x$ and Black Carbon. 
 When working with data on these components, adjusting for the seasonality is extremely important since different periods can have 2-4 fold difference due to traffic and family habits.
-## Install Eviroment 
+## Install Environment 
 ```
 conda env create -f Gaussian-environment.yml
 ```
