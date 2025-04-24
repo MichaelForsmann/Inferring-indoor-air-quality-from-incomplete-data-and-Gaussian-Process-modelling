@@ -10,10 +10,8 @@ The synthetic data was created since it is clinical data, which doesn't allow us
 The data is mostly there to showcase the application and that the code is working.
 ## Pipeline 
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/plots/pipeline.png)
-## Preprocessing
-![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/flow_bc_pm.png)
 ## Plots and performence to estimate general function for seasonality of the gases and particles
-![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/bc_pm_seasonality.png)
+![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/Plots/PM25_BC_seasonality_plot.ipynb)
 
 ## Models folder 
 All the gaussion porcess models used are saved in this folder 
