@@ -26,69 +26,8 @@ All the gaussion porcess models used are saved in this folder
 
 
 ### References
-@article{bingham2019pyro,
-  author    = {Eli Bingham and
-               Jonathan P. Chen and
-               Martin Jankowiak and
-               Fritz Obermeyer and
-               Neeraj Pradhan and
-               Theofanis Karaletsos and
-               Rohit Singh and
-               Paul A. Szerlip and
-               Paul Horsfall and
-               Noah D. Goodman},
-  title     = {Pyro: Deep Universal Probabilistic Programming},
-  journal   = {J. Mach. Learn. Res.},
-  volume    = {20},
-  pages     = {28:1--28:6},
-  year      = {2019},
-  url       = {http://jmlr.org/papers/v20/18-403.html}
-}
-@article{scikit-learn,
-  title={Scikit-learn: Machine Learning in {P}ython},
-  author={Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, V.
-          and Thirion, B. and Grisel, O. and Blondel, M. and Prettenhofer, P.
-          and Weiss, R. and Dubourg, V. and Vanderplas, J. and Passos, A. and
-          Cournapeau, D. and Brucher, M. and Perrot, M. and Duchesnay, E.},
-  journal={Journal of Machine Learning Research},
-  volume={12},
-  pages={2825--2830},
-  year={2011}
-}
-@ARTICLE{2020SciPy-NMeth,
-  author  = {Virtanen, Pauli and Gommers, Ralf and Oliphant, Travis E. and
-            Haberland, Matt and Reddy, Tyler and Cournapeau, David and
-            Burovski, Evgeni and Peterson, Pearu and Weckesser, Warren and
-            Bright, Jonathan and {van der Walt}, St{\'e}fan J. and
-            Brett, Matthew and Wilson, Joshua and Millman, K. Jarrod and
-            Mayorov, Nikolay and Nelson, Andrew R. J. and Jones, Eric and
-            Kern, Robert and Larson, Eric and Carey, C J and
-            Polat, {\.I}lhan and Feng, Yu and Moore, Eric W. and
-            {VanderPlas}, Jake and Laxalde, Denis and Perktold, Josef and
-            Cimrman, Robert and Henriksen, Ian and Quintero, E. A. and
-            Harris, Charles R. and Archibald, Anne M. and
-            Ribeiro, Ant{\^o}nio H. and Pedregosa, Fabian and
-            {van Mulbregt}, Paul and {SciPy 1.0 Contributors}},
-  title   = {{{SciPy} 1.0: Fundamental Algorithms for Scientific
-            Computing in Python}},
-  journal = {Nature Methods},
-  year    = {2020},
-  volume  = {17},
-  pages   = {261--272},
-  adsurl  = {https://rdcu.be/b08Wh},
-  doi     = {10.1038/s41592-019-0686-2},
-(PyTorch: An Imperative Style, High-Performance Deep Learning Library)[link]https://openreview.net/forum?id=BJJsrmfCZ
+Pyro bingham2019pyro : https://arxiv.org/abs/1810.09538
+Scipy 2020SciPy-NMeth: https://www.nature.com/articles/s41592-019-0686-2\\
+PyTorch: An Imperative Style, High-Performance Deep Learning Library https://openreview.net/forum?id=BJJsrmfCZ\\
+arviz_2019:  https://joss.theoj.org/papers/10.21105/joss.01143\\
 
-@article{arviz_2019,
-  doi = {10.21105/joss.01143},
-  url = {https://doi.org/10.21105/joss.01143},
-  year = {2019},
-  publisher = {The Open Journal},
-  volume = {4},
-  number = {33},
-  pages = {1143},
-  author = {Ravin Kumar and Colin Carroll and Ari Hartikainen and Osvaldo Martin},
-  title = {ArviZ a unified library for exploratory analysis of Bayesian models in Python},
-  journal = {Journal of Open Source Software}
-}
-The license text is available in the [LICENSE](LICENSE) file located in the root directory of the project.
