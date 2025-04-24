@@ -77,16 +77,8 @@ All the gaussion porcess models used are saved in this folder
   pages   = {261--272},
   adsurl  = {https://rdcu.be/b08Wh},
   doi     = {10.1038/s41592-019-0686-2},
+(PyTorch: An Imperative Style, High-Performance Deep Learning Library)[link]https://openreview.net/forum?id=BJJsrmfCZ
 
-@incollection{NEURIPS2019_9015,
-title = {PyTorch: An Imperative Style, High-Performance Deep Learning Library},
-author = {Paszke, Adam and Gross, Sam and Massa, Francisco and Lerer, Adam and Bradbury, James and Chanan, Gregory and Killeen, Trevor and Lin, Zeming and Gimelshein, Natalia and Antiga, Luca and Desmaison, Alban and Kopf, Andreas and Yang, Edward and DeVito, Zachary and Raison, Martin and Tejani, Alykhan and Chilamkurthy, Sasank and Steiner, Benoit and Fang, Lu and Bai, Junjie and Chintala, Soumith},
-booktitle = {Advances in Neural Information Processing Systems 32},
-pages = {8024--8035},
-year = {2019},
-publisher = {Curran Associates, Inc.},
-url = {http://papers.neurips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf}
-} 
 @article{arviz_2019,
   doi = {10.21105/joss.01143},
   url = {https://doi.org/10.21105/joss.01143},
