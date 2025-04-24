@@ -9,13 +9,12 @@ The outdoor sources are the total area of the outdoor source as an approximation
 The synthetic data was created since it is clinical data, which doesn't allow us to open-source it. 
 The data is mostly there to showcase the application and that the code is working.
 ## Pipeline 
-![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/pipeline.png)
+![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/plots/pipeline.png)
 ## Preprocessing
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/flow_bc_pm.png)
 ## Plots and performence to estimate general function for seasonality of the gases and particles
-![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/pm_seasonality.png)
-![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/no2_seasonality.png)
-![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/VOCs_seasonality(3).png)
+![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/bc_pm_seasonality.png)
+
 ## Models folder 
 All the gaussion porcess models used are saved in this folder 
 
