@@ -25,8 +25,8 @@ All the gaussion porcess models used are saved in this folder
 ## Arviz stats plots about stability and converge from the models
 
 
-### References
-Pyro bingham2019pyro : https://arxiv.org/abs/1810.09538
+### References \\
+Pyro bingham2019pyro : https://arxiv.org/abs/1810.09538 \\
 Scipy 2020SciPy-NMeth: https://www.nature.com/articles/s41592-019-0686-2\\
 PyTorch: An Imperative Style, High-Performance Deep Learning Library https://openreview.net/forum?id=BJJsrmfCZ\\
 arviz_2019:  https://joss.theoj.org/papers/10.21105/joss.01143\\
